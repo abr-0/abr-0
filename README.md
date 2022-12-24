@@ -13,7 +13,7 @@
 
 
 <details>
-<summary align="center">PGP key</summary>
+<summary align="center"><b>PGP Key</b></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

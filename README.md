@@ -55,7 +55,7 @@ BBrLf5Eb1oGHWBMJmVYIj4thpS9KD/+KvCagSCRKk7l8qv30VDUiHPgZDMW1
 </details>
 
 
-<h2>Langauges and Tools:</h2>
+<h2>Languages and Tools:</h2>
 <table>
 <tr>
     <td align="center"  width="96">

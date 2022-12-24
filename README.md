@@ -1,9 +1,19 @@
-### Hi there 👋
+![header](./assets/header.png)
 
-(◕‿◕)
+---
+
+<p align="center">
+  <a href="mailto:ashutoshbr@proton.me" alt="Mail"><img height='50' src="./assets/mail.png"></a>
+  <a href="https://github.com/ashutoshbr" alt="GitHub"><img height='50' src="./assets/github.png"></a>
+  <a href="https://facebook.com" alt="Facebook"><img height='50' src="./assets/facebook.png"></a>
+  <a href="https://t.me/ashutoshbr" alt="Telegram"><img height='50' src="./assets/telegram.png"></a>
+  <a href="https://www.linkedin.com/in/ashutoshbr/" alt="Linkedin"><img height='50' src="./assets/linkedin.png"></a>
+  <a href="https://discord.com/" alt="Discord"><img height='50' src="./assets/discord.png"></a>
+</p>
+
 
 <details>
-<summary>PGP key</summary>
+<summary align="center">PGP key</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -43,3 +53,84 @@ BBrLf5Eb1oGHWBMJmVYIj4thpS9KD/+KvCagSCRKk7l8qv30VDUiHPgZDMW1
 ```
 
 </details>
+
+
+<h2>Langauges and Tools:</h2>
+<table>
+<tr>
+    <td align="center"  width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <br>Python
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <br>Golang
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <br>C
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <br>C++
+    </td>
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <br>Git
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <br>GitHub
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <br>Figma
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    <br>Photoshop
+    </td>
+    <td align="center"  width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    <br>Illustrator
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+    <br>FastAPI
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <br>MySQL
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <br>mongoDB
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <br>nodejs
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <br>Linux
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <br>Docker
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <br>Azure
+    </td>
+    <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <br>VsCode
+    </td>
+</table>
